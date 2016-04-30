@@ -46,7 +46,7 @@ public class CalendarActivity extends Activity implements OnGestureListener, OnC
 	private String ruzhuTime;
 	private String lidianTime;
 	private String state="";
-	
+	//第二次
 	private TextView btn_prev_month;
 	private TextView btn_next_month;
 	private Button btn_goback_to_today;
